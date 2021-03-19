@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>tpb.biz.saleapp.mobile</string>
+				<string>com.aw.tpbank</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
